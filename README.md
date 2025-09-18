@@ -1,17 +1,17 @@
 ### Hi there 👋, I'm Vithor!
 
 <p align="left"> 
-  Sou estudante de Engenharia de Computação na UTFPR, apaixonado por usar a tecnologia para resolver problemas complexos, desde sistemas de alta performance até a análise de dados com inteligência artificial.
+  I'm a Computer Engineering student at UTFPR (Brazil), passionate about using technology to solve complex problems, from high-performance systems to data analysis with artificial intelligence.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 Atualmente estou finalizando meu TCC em **Mineração de Processos e Machine Learning**.
-- 🌱 Tenho um grande interesse em **Sistemas Embarcados**, **Inteligência Artificial** e **Desenvolvimento de Software de Alta Performance**.
-- 🚀 Meu projeto de Iniciação Científica foi desenvolvendo firmware em **Rust**, com foco em segurança e eficiência.
-- 📫 Como me encontrar: **vithor.2003@alunos.utfpr.edu.br**
+- 🔭 I’m currently finishing my undergraduate thesis on **Process Mining and Machine Learning**.
+- 🌱 My main interests are **Embedded Systems**, **Artificial Intelligence**, and **High-Performance Software Development**.
+- 🚀 My scientific initiation project involved developing firmware in **Rust**, with a focus on safety and efficiency.
+- 📫 How to reach me: **vithor.2003@alunos.utfpr.edu.br**
 
 ---
 
@@ -54,3 +54,15 @@
 </p>
 
 ---
+
+### 💡 Concepts & Competencies
+
+* **Artificial Intelligence & Data:** Machine Learning, Data Mining, Process Mining, Predictive Analysis
+* **Software Engineering:** Software Architecture, Software Testing (QA), Firmware, Embedded Systems
+* **Soft Skills:** Complex Problem-Solving, Logical Reasoning, Proactivity
+
+---
+
+<p align="center">
+  <a href="README-PT.md">Read this profile in Portuguese</a>
+</p>
