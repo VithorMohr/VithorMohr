@@ -56,6 +56,16 @@
 
 ---
 
+### 💻 IDEs
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab">
+  <img src="https://img.shields.io/badge/Code%20Composer-00529B?style=for-the-badge&logo=texasinstruments&logoColor=white" alt="Code Composer Studio">
+</p>
+
+---
+
 ### 💡 Conceitos e Competências
 
 * **Inteligência Artificial e Dados:** Machine Learning, Mineração de Dados, Mineração de Processos, Análise Preditiva
